@@ -27,7 +27,7 @@
     "linerstream": "^0.2.0",
     "material-design-icons-iconfont-only": "^3.0.1",
     "mini-css-extract-plugin": "^0.4.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "morgan": "~1.9.1",
     "sass-loader": "^7.0.3",
     "socket.io": "^2.1.1",
