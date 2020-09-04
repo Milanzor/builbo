@@ -45,7 +45,7 @@
     "debounce": "^1.1.0",
     "file-loader": "^1.1.11",
     "jquery": "^3.4.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "pickadate": "^3.5.6",
     "postcss-loader": "^2.1.5",
     "stein": "^1.0.5",
